@@ -13,7 +13,15 @@ This Timbu Store App is built using Flutter. The app displays a list of products
 
 ## Screenshots
 
-*Include some screenshots of your app here.*
+![Screenshot_20240707_034207](https://github.com/OtonyeR/qop_timbu/assets/78686910/750b5aeb-9a9d-4e31-bd9b-990766c13a90)
+*Caption: The Home Screen showcasing our products.*
+
+![Screenshot_20240707_034207](https://github.com/OtonyeR/qop_timbu/assets/78686910/e4b36acc-6ec7-4937-abe5-44ae72b9d7de)
+*Caption: The Home Screen showcasing filtered products by category*
+
+![Screenshot_20240707_011054](https://github.com/OtonyeR/qop_timbu/assets/78686910/c1a491d6-5c0f-463e-9368-bd442f4cb714)
+*Caption: Your Home Screen with product description*
+
 
 ## Getting Started
 
@@ -24,6 +32,12 @@ These instructions will get you a copy of the project up and running on your loc
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - An IDE like Visual Studio Code or Android Studio
 
+### Installing
+
+1. Clone the repository
+    ```bash
+    git clone https://github.com/yourusername/qop_timbu.git
+    ```
 ### Installing
 
 1. Clone the repository
@@ -42,40 +56,7 @@ These instructions will get you a copy of the project up and running on your loc
     ```bash
     flutter run
     ```
-
-## Project Structure
-
-```
-qop_timbu
-├── .dart_tool
-├── .idea
-├── android
-├── assets
-│   └── bag_icon.png
-├── build
-├── ios
-├── lib
-│   ├── components
-│   │   └── widgets
-│   │       ├── error_box.dart
-│   │       └── product_tile.dart
-│   ├── models
-│   │   └── product.dart
-│   ├── screens
-│   │   └── shop.dart
-│   ├── services
-│   │   └── api_services.dart
-│   ├── main.dart
-├── test
-├── .gitignore
-├── .metadata
-├── analysis_options.yaml
-├── pubspec.lock
-├── pubspec.yaml
-├── qop_timbu.iml
-└── README.md
-```
-
+    
 ## Usage
 
 ### API Service
