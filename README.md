@@ -13,11 +13,11 @@ This Timbu Store App is built using Flutter. The app displays a list of products
 
 ## Screenshots
 
-![Home Screen]([https://github.com/OtonyeR/La-Fin/blob/main/screenshots/HomeScreen.jp](https://github.com/OtonyeR/qop_timbu/blob/main/screenshots/Screenshot_20240707_034225.jpg)
+![Home Screen](https://github.com/OtonyeR/qop_timbu/blob/main/screenshots/Screenshot_20240707_034225.jpg)
 *Caption: The Home Screen showcasing our products.*
 
 
-![Home Screen 2]([https://github.com/OtonyeR/La-Fin/blob/main/screenshots/HomeScreen2.jpg](https://github.com/OtonyeR/qop_timbu/blob/main/screenshots/Screenshot_20240707_034207.jpg)
+![Home Screen 2](https://github.com/OtonyeR/qop_timbu/blob/main/screenshots/Screenshot_20240707_034207.jpg)
 *Caption: The Home Screen showcasing filtered products by category*
 
 
