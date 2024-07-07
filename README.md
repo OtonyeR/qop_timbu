@@ -42,7 +42,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/OtonyeR/qop_timbu.git
+    git clone https://github.com/yourusername/qop_timbu.git
     ```
 2. Navigate to the project directory
     ```bash
