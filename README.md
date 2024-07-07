@@ -13,7 +13,17 @@ This Timbu Store App is built using Flutter. The app displays a list of products
 
 ## Screenshots
 
-*Include some screenshots of your app here.*
+![Home Screen]([https://github.com/OtonyeR/La-Fin/blob/main/screenshots/HomeScreen.jp](https://github.com/OtonyeR/qop_timbu/blob/main/screenshots/Screenshot_20240707_034225.jpg)
+*Caption: The Home Screen showcasing our products.*
+
+
+![Home Screen 2]([https://github.com/OtonyeR/La-Fin/blob/main/screenshots/HomeScreen2.jpg](https://github.com/OtonyeR/qop_timbu/blob/main/screenshots/Screenshot_20240707_034207.jpg)
+*Caption: The Home Screen showcasing filtered products by category*
+
+
+![Home Screen 3](https://github.com/OtonyeR/qop_timbu/blob/main/screenshots/Screenshot_20240707_011054.jpg)
+*Caption: Your Home Screen with product description*
+
 
 ## Getting Started
 
@@ -43,38 +53,6 @@ These instructions will get you a copy of the project up and running on your loc
     flutter run
     ```
 
-## Project Structure
-
-```
-qop_timbu
-├── .dart_tool
-├── .idea
-├── android
-├── assets
-│   └── bag_icon.png
-├── build
-├── ios
-├── lib
-│   ├── components
-│   │   └── widgets
-│   │       ├── error_box.dart
-│   │       └── product_tile.dart
-│   ├── models
-│   │   └── product.dart
-│   ├── screens
-│   │   └── shop.dart
-│   ├── services
-│   │   └── api_services.dart
-│   ├── main.dart
-├── test
-├── .gitignore
-├── .metadata
-├── analysis_options.yaml
-├── pubspec.lock
-├── pubspec.yaml
-├── qop_timbu.iml
-└── README.md
-```
 
 ## Usage
 
