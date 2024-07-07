@@ -19,7 +19,9 @@ This Timbu Store App is built using Flutter. The app displays a list of products
 ![Screenshot_20240707_034207](https://github.com/OtonyeR/qop_timbu/assets/78686910/e4b36acc-6ec7-4937-abe5-44ae72b9d7de)
 *Caption: The Home Screen showcasing filtered products by category*
 
-https://drive.google.com/file/d/1mO5R9fr4bfhHgRhHKTEqz3QpsQ22D2lR/view?usp=sharing
+
+
+![Image Alt Text](https://drive.google.com/file/d/1mO5R9fr4bfhHgRhHKTEqz3QpsQ22D2lR/view?usp=sharing)
 *Caption: Your Home Screen with product description*
 
 
